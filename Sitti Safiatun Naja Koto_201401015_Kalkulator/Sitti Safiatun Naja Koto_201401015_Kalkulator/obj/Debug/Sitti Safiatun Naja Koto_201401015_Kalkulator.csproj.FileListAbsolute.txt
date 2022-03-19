@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\obj\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\obj\Debug\Sitti_Safiatun_Naja_Koto_201401015_Kalkulator.MainForm.resources
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\obj\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\bin\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\bin\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\bin\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\obj\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\Sitti Safiatun Naja Koto_201401015_Kalkulator\Sitti Safiatun Naja Koto_201401015_Kalkulator\obj\Debug\Sitti Safiatun Naja Koto_201401015_Kalkulator.pdb
